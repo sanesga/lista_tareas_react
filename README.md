@@ -1,14 +1,12 @@
-# Start project
+### START PROJECT
 
-- SUDO npm start
-- http://localhost:3000/
+- sudo npm start
+- http://localhost:3000
 
-# For using Bootstrap library
- 
-- npm install --save bootstrap
+### FOR USING BOOTSTRAP LIBRARY
 
-# Install react-router package
+- sudo npm install --save bootstrap
+
+### INSTALL REACT-ROUTER PACKAGE
 
 - sudo npm add react-router-dom
-
-
